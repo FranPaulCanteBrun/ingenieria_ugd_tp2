@@ -1,2 +1,5 @@
-# ingenieria_ugd_tp2
-Trabajo Práctico 2 Ingeniería de Software
+# Integrantes
+## Franco Paul Cantero Brunelli
+## Guido Nuñez
+## Manuel Sepulveda
+## Mario Ibañez
